@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FCM Push Lab</string>
+    <string name="notification_channel_name">Push messages</string>
+    <string name="notification_channel_description">Messages delivered through Firebase Cloud Messaging</string>
+    <string name="default_notification_channel_id" translatable="false">push_messages</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- FCM registration tokens are installation-specific and must not be restored. -->
+    <exclude domain="file" path="datastore/notification_state.preferences_pb" />
+</full-backup-content>
